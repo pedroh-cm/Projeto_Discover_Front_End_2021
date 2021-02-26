@@ -311,7 +311,7 @@ footer {
 
 /*RESPONSIVE=======================================================================*/
 
-@media (min-width: 400px) {
+@media (min-width: 200px) {
     html{
         font-size:87.5%;
     }
